@@ -1,0 +1,879 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "ekran1",
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "kutu1",
+            "X": -3,
+            "Width": 247,
+            "Height": 320
+          },
+          {
+            "Type": "ScrollList",
+            "Name": "scrollList1",
+            "X": 70,
+            "Y": 110,
+            "Width": 100,
+            "Height": 50,
+            "IsCircular": true,
+            "NumberofItems": 10,
+            "Easing": "Bounce",
+            "EasingOption": "Out",
+            "SwipeAcceleration": 1.0,
+            "DragAcceleration": 1.0
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 160,
+            "Y": 72,
+            "Width": 76,
+            "Height": 29,
+            "TextId": "__SingleUse_2DV5",
+            "TextRotation": "0",
+            "Color": {
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_I9RA",
+              "UseBuffer": true,
+              "BufferSize": 10
+            },
+            "Fadeable": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_1",
+            "X": 160,
+            "Y": 160,
+            "Width": 76,
+            "Height": 29,
+            "TextId": "__SingleUse_8NO4",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 225,
+              "Green": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_29UY",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_1_1",
+            "X": 160,
+            "Y": 116,
+            "Width": 76,
+            "Height": 29,
+            "TextId": "__SingleUse_6OJQ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_OHBX",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": 11,
+            "Y": 103,
+            "Width": 15,
+            "Height": 77,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1",
+            "X": 26,
+            "Y": 101,
+            "Width": 15,
+            "Height": 79,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1",
+            "X": 41,
+            "Y": 106,
+            "Width": 15,
+            "Height": 74,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1_1",
+            "X": 56,
+            "Y": 97,
+            "Width": 15,
+            "Height": 83,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1_1_1",
+            "X": 71,
+            "Y": 106,
+            "Width": 15,
+            "Height": 74,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1_1_1_1",
+            "X": 86,
+            "Y": 80,
+            "Width": 15,
+            "Height": 100,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1_1_1_1_1",
+            "X": 101,
+            "Y": 114,
+            "Width": 15,
+            "Height": 66,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1_1_1_1_1_1",
+            "X": 116,
+            "Y": 94,
+            "Width": 15,
+            "Height": 86,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1_1_1_1_1_1_1",
+            "X": 131,
+            "Y": 113,
+            "Width": 15,
+            "Height": 67,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Alpha": 151
+          },
+          {
+            "Type": "Box",
+            "Name": "box1_1_1_1_1_1_1_1_1_1",
+            "X": 146,
+            "Y": 116,
+            "Width": 15,
+            "Height": 64,
+            "Visible": false,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea2",
+            "X": 169,
+            "Y": 205,
+            "Width": 48,
+            "Height": 29,
+            "TextId": "__SingleUse_N0L4",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 8
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea2_1",
+            "X": 169,
+            "Y": 261,
+            "Width": 53,
+            "Height": 29,
+            "TextId": "__SingleUse_9F50",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 12,
+              "Green": 12,
+              "Blue": 232
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "ScrollWheel",
+            "Name": "scrollWheel1",
+            "X": 51,
+            "Y": 20,
+            "Width": 139,
+            "Height": 40,
+            "SelectedItemOffset": 2,
+            "IsCircular": true,
+            "ItemTemplateName": "ctn_text",
+            "NumberofItems": 3,
+            "Easing": "Back",
+            "EasingOption": "Out",
+            "SwipeAcceleration": 1.0,
+            "DragAcceleration": 1.0
+          },
+          {
+            "Type": "ScrollWheel",
+            "Name": "sw_min",
+            "X": 18,
+            "Y": 205,
+            "Width": 139,
+            "Height": 39,
+            "Visible": false,
+            "UseSelectedStyle": true,
+            "IsCircular": true,
+            "ItemTemplateName": "ctn_text",
+            "NumberofItems": 100,
+            "ItemMargin": 1,
+            "Easing": "Circ",
+            "EasingOption": "Out",
+            "SwipeAcceleration": 1.0,
+            "DragAcceleration": 1.0,
+            "Moveable": true
+          },
+          {
+            "Type": "ScrollWheel",
+            "Name": "sw_max",
+            "X": 18,
+            "Y": 261,
+            "Width": 139,
+            "Height": 39,
+            "Visible": false,
+            "UseSelectedStyle": true,
+            "IsCircular": true,
+            "ItemTemplateName": "ctn_text",
+            "NumberofItems": 100,
+            "Easing": "Circ",
+            "EasingOption": "InOut",
+            "SwipeAcceleration": 1.0,
+            "DragAcceleration": 1.0,
+            "Moveable": true
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton1",
+            "X": 11,
+            "Y": 15,
+            "Width": 50,
+            "Height": 50,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "TextButtonStyle",
+                "TextId": "__SingleUse_CAXK",
+                "TextRotation": "0",
+                "ColorReleased": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "ColorPressed": {
+                  "Red": 10,
+                  "Green": 10,
+                  "Blue": 10
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton2",
+            "X": 180,
+            "Y": 15,
+            "Width": 50,
+            "Height": 50,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "TextButtonStyle",
+                "TextId": "__SingleUse_NKB5",
+                "TextRotation": "0",
+                "ColorReleased": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "ColorPressed": {
+                  "Red": 10,
+                  "Green": 10,
+                  "Blue": 10
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton3",
+            "X": 8,
+            "Y": 199,
+            "Width": 50,
+            "Height": 50,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "TextButtonStyle",
+                "TextId": "__SingleUse_VXLB",
+                "TextRotation": "0",
+                "ColorReleased": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "ColorPressed": {
+                  "Red": 10,
+                  "Green": 10,
+                  "Blue": 10
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton4",
+            "X": 116,
+            "Y": 199,
+            "Width": 50,
+            "Height": 50,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "TextButtonStyle",
+                "TextId": "__SingleUse_SVUU",
+                "TextRotation": "0",
+                "ColorReleased": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "ColorPressed": {
+                  "Red": 10,
+                  "Green": 10,
+                  "Blue": 10
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton5",
+            "X": 8,
+            "Y": 255,
+            "Width": 50,
+            "Height": 50,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "TextButtonStyle",
+                "TextId": "__SingleUse_ZAA4",
+                "TextRotation": "0",
+                "ColorReleased": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "ColorPressed": {
+                  "Red": 10,
+                  "Green": 10,
+                  "Blue": 10
+                }
+              }
+            ]
+          },
+          {
+            "Type": "FlexButton",
+            "Name": "flexButton6",
+            "X": 116,
+            "Y": 255,
+            "Width": 50,
+            "Height": 50,
+            "ButtonTrigger": {
+              "Type": "ClickButtonTrigger"
+            },
+            "ButtonStyles": [
+              {
+                "Type": "TextButtonStyle",
+                "TextId": "__SingleUse_BM67",
+                "TextRotation": "0",
+                "ColorReleased": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "ColorPressed": {
+                  "Red": 10,
+                  "Green": 10,
+                  "Blue": 10
+                }
+              }
+            ]
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1",
+            "X": 12,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 50
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_1",
+            "X": 26,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 70
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_2",
+            "X": 40,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 80
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_3",
+            "X": 54,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 75
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_4",
+            "X": 68,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 75
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_5",
+            "X": 82,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 70
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_6",
+            "X": 96,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 60
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_7",
+            "X": 110,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 65
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_8",
+            "X": 124,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 70
+          },
+          {
+            "Type": "BoxProgress",
+            "Name": "bp_1_9",
+            "X": 138,
+            "Y": 78,
+            "Width": 14,
+            "Height": 104,
+            "Color": {
+              "Blue": 255
+            },
+            "Direction": "Up",
+            "FileNameBackground": "__designer\\Blue_ProgressIndicators_bg_small_progress_indicator_bg_square_90_degrees.png",
+            "IndicatorPositionX": 2,
+            "IndicatorPositionY": 2,
+            "IndicatorPositionWidth": 10,
+            "IndicatorPositionHeight": 100,
+            "ProgressRangeMax": 100,
+            "ProgressInitialValue": 73
+          },
+          {
+            "Type": "TextArea",
+            "Name": "ta_min",
+            "X": 51,
+            "Y": 209,
+            "Width": 73,
+            "Height": 32,
+            "TextId": "__SingleUse_LMDQ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "ta_max",
+            "X": 51,
+            "Y": 266,
+            "Width": 73,
+            "Height": 32,
+            "TextId": "__SingleUse_TE1Q",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton1"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "LeftCrypto"
+            }
+          },
+          {
+            "InteractionName": "Interaction3",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "RightCrypto"
+            }
+          },
+          {
+            "InteractionName": "Interaction4",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton3"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "DownValueMin"
+            }
+          },
+          {
+            "InteractionName": "Interaction5",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton4"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "UpValueMin"
+            }
+          },
+          {
+            "InteractionName": "Interaction6",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton5"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "DownValueMax"
+            }
+          },
+          {
+            "InteractionName": "Interaction7",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "flexButton6"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "UpValueMax"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [
+      {
+        "Name": "ctn_text",
+        "Width": 139,
+        "Height": 39,
+        "Components": [
+          {
+            "Type": "TextArea",
+            "Name": "ta_text",
+            "Width": 139,
+            "Height": 39,
+            "TextId": "__SingleUse_K8RX",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Wildcard1": {
+              "TextId": "__SingleUse_L6HX",
+              "UseBuffer": true,
+              "BufferSize": 30
+            }
+          },
+          {
+            "Type": "Box",
+            "Name": "box1",
+            "X": 11,
+            "Y": 96,
+            "Width": 193,
+            "Height": 94,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          }
+        ],
+        "Interactions": []
+      }
+    ],
+    "Name": "MyApplication",
+    "Resolution": {
+      "Width": 240,
+      "Height": 320
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "ekran1",
+    "SelectedStartupLanguage": "GB",
+    "Skin": "Blue",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 240,
+        "Height": 320
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bpp": {
+        "Id": "LCD16bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project --project-file=../STM32F429I-DISCO.ioc --platform=m4",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../gcc/Makefile flash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Portrait"
+  },
+  "Version": "4.20.0",
+  "CreatedBy": "4.20.0"
+}

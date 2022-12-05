@@ -1,0 +1,23 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:18:6:virtual void ekran1View::tearDownScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:touchgfx::DrawableListItems<ctn_text, 2>::~DrawableListItems()	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:101:21:int16_t touchgfx::DrawableListItems<TYPE, SIZE>::getNumberOfDrawables() [with TYPE = ctn_text; int SIZE = 2]	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:12:6:virtual void ekran1View::setupScreen()	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:28:6:virtual void ekran1View::LeftCrypto()	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:38:6:virtual void ekran1View::RightCrypto()	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:47:6:virtual void ekran1View::DownValueMin()	16	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:54:6:virtual void ekran1View::UpValueMin()	16	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:61:6:virtual void ekran1View::DownValueMax()	16	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:69:6:virtual void ekran1View::UpValueMax()	16	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:226:6:virtual void ekran1View::scrollWheel1UpdateItem(ctn_text&, int16_t)	40	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:247:6:virtual void ekran1View::sw_minUpdateItem(ctn_text&, int16_t)	40	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:virtual touchgfx::DrawableListItems<ctn_text, 2>::~DrawableListItems()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:82:23:touchgfx::Drawable* touchgfx::DrawableListItems<TYPE, SIZE>::getDrawable(int16_t) [with TYPE = ctn_text; int SIZE = 2]	8	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:27:13:ekran1ViewBase::~ekran1ViewBase()	8	static
+../../TouchGFX/gui/include/gui/ekran1_screen/ekran1View.hpp:11:13:ekran1View::~ekran1View()	8	static
+../../TouchGFX/gui/include/gui/ekran1_screen/ekran1View.hpp:11:13:virtual ekran1View::~ekran1View()	8	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:27:13:virtual ekran1ViewBase::~ekran1ViewBase()	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:7:1:ekran1View::ekran1View()	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:140:6:void ekran1View::set_bars()	96	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1View.cpp:81:6:virtual void ekran1View::handleTickEvent()	56	static

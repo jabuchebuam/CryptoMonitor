@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.20.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_TE1Q" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LMDQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_29UY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">90000</Translation>
+      </Text>
+      <Text Id="__SingleUse_OHBX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">92000</Translation>
+      </Text>
+      <Text Id="__SingleUse_I9RA" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">93000</Translation>
+      </Text>
+      <Text Id="__SingleUse_BM67" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">+</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZAA4" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">-</Translation>
+      </Text>
+      <Text Id="__SingleUse_SVUU" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">+</Translation>
+      </Text>
+      <Text Id="__SingleUse_VXLB" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">-&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NKB5" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CAXK" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_L6HX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_K8RX" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9F50" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MAX</Translation>
+      </Text>
+      <Text Id="__SingleUse_N0L4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MIN</Translation>
+      </Text>
+      <Text Id="__SingleUse_6OJQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8NO4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_2DV5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="24" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x00-0xFF" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x00-0xFF" />
+    <Typography Id="Small" Font="verdana.ttf" Size="16" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x00-0xFF" />
+  </Typographies>
+</TextDatabase>

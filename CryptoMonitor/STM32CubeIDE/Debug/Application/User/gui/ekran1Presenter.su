@@ -1,0 +1,11 @@
+../../TouchGFX/gui/include/gui/ekran1_screen/ekran1Presenter.hpp:30:13:ekran1Presenter::~ekran1Presenter()	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1Presenter.cpp:10:6:virtual void ekran1Presenter::activate()	0	static
+../../TouchGFX/gui/include/gui/ekran1_screen/ekran1Presenter.hpp:30:13:virtual ekran1Presenter::~ekran1Presenter()	8	static
+../../TouchGFX/gui/include/gui/ekran1_screen/ekran1Presenter.hpp:30:13:virtual void* ekran1Presenter::_ZThn4_N15ekran1PresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/ekran1_screen/ekran1Presenter.hpp:39:18:virtual void ekran1Presenter::_ZThn4_N15ekran1Presenter8GetValueEv()	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1Presenter.cpp:4:1:ekran1Presenter::ekran1Presenter(ekran1View&)	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1Presenter.cpp:25:10:uint32_t ekran1Presenter::GetMinVal(uint8_t)	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1Presenter.cpp:30:10:uint32_t ekran1Presenter::GetMaxVal(uint8_t)	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1Presenter.cpp:35:6:void ekran1Presenter::SetMinVal(uint8_t, uint32_t)	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1Presenter.cpp:40:6:void ekran1Presenter::SetMaxVal(uint8_t, uint32_t)	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/ekran1_screen/ekran1Presenter.cpp:45:11:uint32_t* ekran1Presenter::Get_Vect_Val(uint8_t)	0	static

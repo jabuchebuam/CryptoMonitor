@@ -1,0 +1,96 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:147:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:327:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:501:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:703:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:93:18:virtual void touchgfx::Screen::setupScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:45:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:48:18:virtual void touchgfx::TextArea::setWidth(int16_t)	32	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:54:18:virtual void touchgfx::TextArea::setHeight(int16_t)	32	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:60:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:89:18:virtual void touchgfx::TextArea::setAlpha(uint8_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:127:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:403:41:virtual const UnicodeChar* touchgfx::TextArea::getWildcard2() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:46:36:virtual touchgfx::TextArea::BoundingArea touchgfx::TextAreaWithWildcardBase::calculateBoundingArea() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:81:41:virtual const UnicodeChar* touchgfx::TextAreaWithOneWildcard::getWildcard1() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:114:18:virtual void touchgfx::AbstractButtonContainer::handlePressedUpdated()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:119:18:virtual void touchgfx::AbstractButtonContainer::handleAlphaUpdated()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:34:7:touchgfx::AbstractButtonContainer::~AbstractButtonContainer()	0	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:touchgfx::View<ekran1Presenter>::~View()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:30:18:virtual void ekran1ViewBase::scrollWheel1UpdateItem(ctn_text&, int16_t)	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:35:18:virtual void ekran1ViewBase::sw_minUpdateItem(ctn_text&, int16_t)	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:40:18:virtual void ekran1ViewBase::sw_maxUpdateItem(ctn_text&, int16_t)	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:48:18:virtual void ekran1ViewBase::LeftCrypto()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:53:18:virtual void ekran1ViewBase::RightCrypto()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:58:18:virtual void ekran1ViewBase::DownValueMin()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:63:18:virtual void ekran1ViewBase::UpValueMin()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:68:18:virtual void ekran1ViewBase::DownValueMax()	0	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:73:18:virtual void ekran1ViewBase::UpValueMax()	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/generated/gui_generated/src/ekran1_screen/ekran1ViewBase.cpp:388:6:void ekran1ViewBase::updateItemCallbackHandler(touchgfx::DrawableListItemsInterface*, int16_t, int16_t)	24	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:59:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:35:7:touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:101:21:int16_t touchgfx::DrawableListItems<TYPE, SIZE>::getNumberOfDrawables() [with TYPE = ctn_text; int SIZE = 2]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:138:18:void touchgfx::TextButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::ClickButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:218:8:touchgfx::Callback<ekran1ViewBase, touchgfx::DrawableListItemsInterface*, short int, short int>::~Callback()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:touchgfx::Callback<ekran1ViewBase, const touchgfx::AbstractButtonContainer&>::~Callback()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:touchgfx::TextButtonStyle<touchgfx::ClickButtonTrigger>::~TextButtonStyle()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:37:7:touchgfx::MoveAnimator<touchgfx::ScrollWheelWithSelectionStyle>::~MoveAnimator()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:touchgfx::DrawableListItems<ctn_text, 2>::~DrawableListItems()	16	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:27:13:ekran1ViewBase::~ekran1ViewBase()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:41:7:touchgfx::FadeAnimator<touchgfx::TextAreaWithOneWildcard>::~FadeAnimator()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:250:18:void touchgfx::Callback<dest_type, T1, T2, T3>::execute(T1, T2, T3) [with dest_type = ekran1ViewBase; T1 = touchgfx::DrawableListItemsInterface*; T2 = short int; T3 = short int]	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:260:18:bool touchgfx::Callback<dest_type, T1, T2, T3>::isValid() const [with dest_type = ekran1ViewBase; T1 = touchgfx::DrawableListItemsInterface*; T2 = short int; T3 = short int]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = ekran1ViewBase; T1 = const touchgfx::AbstractButtonContainer&]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = ekran1ViewBase; T1 = const touchgfx::AbstractButtonContainer&]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:145:18:void touchgfx::TextButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::ClickButtonTrigger]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:88:18:void touchgfx::MoveAnimator<T>::setMoveAnimationDelay(uint16_t) [with T = touchgfx::ScrollWheelWithSelectionStyle]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:100:22:uint16_t touchgfx::MoveAnimator<T>::getMoveAnimationDelay() const [with T = touchgfx::ScrollWheelWithSelectionStyle]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:84:18:void touchgfx::FadeAnimator<T>::setFadeAnimationDelay(uint16_t) [with T = touchgfx::TextAreaWithOneWildcard]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:96:22:uint16_t touchgfx::FadeAnimator<T>::getFadeAnimationDelay() const [with T = touchgfx::TextAreaWithOneWildcard]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:virtual touchgfx::DrawableListItems<ctn_text, 2>::~DrawableListItems()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:59:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:41:7:virtual touchgfx::FadeAnimator<touchgfx::TextAreaWithOneWildcard>::~FadeAnimator()	8	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:virtual touchgfx::View<ekran1Presenter>::~View()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:34:7:virtual touchgfx::AbstractButtonContainer::~AbstractButtonContainer()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:35:7:virtual touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:43:7:virtual touchgfx::TextButtonStyle<touchgfx::ClickButtonTrigger>::~TextButtonStyle()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:virtual touchgfx::Callback<ekran1ViewBase, const touchgfx::AbstractButtonContainer&>::~Callback()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:218:8:virtual touchgfx::Callback<ekran1ViewBase, touchgfx::DrawableListItemsInterface*, short int, short int>::~Callback()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:37:7:virtual touchgfx::MoveAnimator<touchgfx::ScrollWheelWithSelectionStyle>::~MoveAnimator()	8	static
+../../TouchGFX/generated/gui_generated/include/gui_generated/ekran1_screen/ekran1ViewBase.hpp:27:13:virtual ekran1ViewBase::~ekran1ViewBase()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/ScrollWheelWithSelectionStyle.hpp:152:18:virtual void touchgfx::ScrollWheelWithSelectionStyle::initialize()	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/generated/gui_generated/src/ekran1_screen/ekran1ViewBase.cpp:322:6:virtual void ekran1ViewBase::setupScreen()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:99:18:virtual void touchgfx::AbstractButtonContainer::executeAction()	8	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/generated/gui_generated/src/ekran1_screen/ekran1ViewBase.cpp:342:6:void ekran1ViewBase::flexButtonCallbackHandler(const touchgfx::AbstractButtonContainer&)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:82:23:touchgfx::Drawable* touchgfx::DrawableListItems<TYPE, SIZE>::getDrawable(int16_t) [with TYPE = ctn_text; int SIZE = 2]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:111:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:47:18:virtual void touchgfx::ClickButtonTrigger::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/MoveAnimator.hpp:169:18:void touchgfx::MoveAnimator<T>::handleTickEvent() [with T = touchgfx::ScrollWheelWithSelectionStyle]	24	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/mixins/FadeAnimator.hpp:157:18:void touchgfx::FadeAnimator<T>::handleTickEvent() [with T = touchgfx::TextAreaWithOneWildcard]	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:48:5:touchgfx::Drawable::Drawable()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:343:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:413:10:void touchgfx::Drawable::setWidthHeight(int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:233:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:33:5:touchgfx::Box::Box()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:43:5:touchgfx::TextArea::TextArea()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:62:5:touchgfx::TextAreaWithOneWildcard::TextAreaWithOneWildcard()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:touchgfx::DrawableListItems<ctn_text, 2>::DrawableListItems()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:46:5:touchgfx::TextButtonStyle<T>::TextButtonStyle() [with T = touchgfx::ClickButtonTrigger]	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:57:10:void touchgfx::TextButtonStyle<T>::setText(touchgfx::TypedText) [with T = touchgfx::ClickButtonTrigger]	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/TextButtonStyle.hpp:124:10:void touchgfx::TextButtonStyle<T>::setTextColors(touchgfx::colortype, touchgfx::colortype) [with T = touchgfx::ClickButtonTrigger]	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/generated/gui_generated/src/ekran1_screen/ekran1ViewBase.cpp:9:1:ekran1ViewBase::ekran1ViewBase()	232	static

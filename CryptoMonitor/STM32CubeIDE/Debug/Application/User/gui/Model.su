@@ -1,0 +1,7 @@
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/model/Model.cpp:31:1:Model::Model()	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/model/Model.cpp:36:6:void Model::tick()	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/model/Model.cpp:69:6:void Model::SetMinVal(uint8_t, uint32_t)	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/model/Model.cpp:74:6:void Model::SetMaxVal(uint8_t, uint32_t)	0	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/model/Model.cpp:79:11:uint32_t* Model::Get_Vect_Val(uint8_t)	48	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/model/Model.cpp:46:10:uint32_t Model::GetMinVal(uint8_t)	16	static
+C:/Users/Jonathan/Documents/CryptoMonitor/TouchGFX/gui/src/model/Model.cpp:58:10:uint32_t Model::GetMaxVal(uint8_t)	16	static
